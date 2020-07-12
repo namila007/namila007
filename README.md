@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 [![HitCount](http://hits.dwyl.com/namila007/namila007.svg)](http://hits.dwyl.com/namila007/namila007)
 
 <!--
 **namila007/namila007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
