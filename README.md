@@ -1,7 +1,7 @@
 ### Hi there 👋 [![HitCount](http://hits.dwyl.com/namila007/namila007.svg)](http://hits.dwyl.com/namila007/namila007)
 
 
-![namila007's github stats](https://github-readme-stats.vercel.app/api?username=namila007)
+![namila007's github stats](https://github-readme-stats.vercel.app/api?username=namila007&count_private=true&show_icons=true&theme=radical)
 
 <!--
 **namila007/namila007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
