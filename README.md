@@ -5,17 +5,25 @@
 </a>
 
 
+## Stats
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
   <img src="./profile-3d-contrib/profile-green.svg">
 </picture>
 
 
-![namila007's github stats](https://github-readme-stats.vercel.app/api?username=namila007&count_private=true&show_icons=true&theme=radical)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=namila007&count_private=true&show_icons=true&theme=merko">
+  <img src="https://github-readme-stats.vercel.app/api?username=namila007&count_private=true&show_icons=true">
+</picture>
 
 ## Langs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namila007&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=namila007&layout=compact&theme=merko">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namila007&layout=compact">
+</picture>
 
 <!--
 **namila007/namila007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
